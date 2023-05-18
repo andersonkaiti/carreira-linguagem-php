@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foco {
+    color: red;
+    font-weight: bold;
+}
+
+.botao {
+    color: white;
+    background-color: black;
+    padding: 0px 5px;
+    text-decoration: none;
+    border: none;
+}
+
+.botao:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
